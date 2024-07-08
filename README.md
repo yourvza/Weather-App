@@ -1,11 +1,11 @@
 # Weather-App
 
 ## Description
-A portfolio website that displays contact info, previous projects and a quick summry on myself
-![React-week20](https://github.com/yourvza/MyRactPortfolio/assets/155742735/634ac281-0c1a-4505-8706-77ca3a1664f5)
+We have a weather app in which you can choose a state and it will tell you the temp, humidity , and wind speed of that location. I cons will also pop on the card to tell you if its cloudy,raining,ect.
+![Screenshot (16)](https://github.com/yourvza/Weather-App/assets/155742735/5069b7b4-7f56-4044-a91d-f3ae1d913ed5)
 
 ## Features
-Tailwind css, React, Vite
+HTML,CSS,JavaScript
 
 ## Credits
 All corrections are made by me,yourvza
