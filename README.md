@@ -1,7 +1,7 @@
 # Weather-App
 
 ## Description
-We have a weather app in which you can choose a state and it will tell you the temp, humidity , and wind speed of that location. I cons will also pop on the card to tell you if its cloudy,raining,ect.
+We have a weather app in which you can choose a state and it will tell you the temp, humidity , and wind speed of that location for the whole week. Icons will also pop on the card to tell you if its cloudy,raining,ect.
 ![Screenshot (16)](https://github.com/yourvza/Weather-App/assets/155742735/bd5a384b-efe8-44a5-855b-d68462fca405)
 
 
